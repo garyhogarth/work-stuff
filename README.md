@@ -1,5 +1,5 @@
 # AmiGo Deep Link Test
-[AmiGO DeepLink test](deep-links.md)
+[AmiGO DeepLink test](amigo-deeplinks.md)
 ## Home Screen
   [amigo://](amigo://)
 ## Location Panel
