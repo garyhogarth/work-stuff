@@ -51,9 +51,9 @@
 
 `Parameters - action=search, searchText`
 
-[amigo://map?searchText=Supermarkets](amigo://map?searchText=Supermarkets)
+[amigo://map?action=search&searchText=Supermarkets](amigo://map?action=search&searchText=Supermarkets)
 
-[amigo://map?searchText=TomTom London](amigo://map?searchText=TomTom%20London)
+[amigo://map?action=search&searchText=TomTom London](amigo://map?action=search&searchText=TomTom%20London)
 
 ## Menu → My Places
 
