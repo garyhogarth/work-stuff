@@ -14,6 +14,7 @@
 ### From addressString only
 
 *This will follow same format check as Calendar and fall back to search if not a valid address*
+
 [amigo://map?action=focus&destinationAddress=Buckingham Palace, London, UK](amigo://map?action=focus&destinationAddress=Buckingham%20Palace%2C%20London%2C%20UK)
 
 ### From addressString only with custom display name
@@ -35,6 +36,7 @@
 ### From addressString only
 
 *This will follow same format check as Calendar and fall back to search if not a valid address*
+
 [amigo://map?action=focus&destinationAddress=Buckingham Palace, London, UK](amigo://map?action=focus&destinationAddress=Buckingham%20Palace%2C%20London%2C%20UK)
 
 ### From addressString only (with custom display name)
@@ -45,22 +47,38 @@
 
 [amigo://map?action=focus&latitude=51.5014&longitude=-0.1419&destinationAddress=Buckingham Palace, London, UK&destinationName=Queen's House](amigo://map?action=focus&latitude=51.5014&longitude=-0.1419&destinationAddress=Buckingham%20Palace%2C%20London%2C%20UK&destinationName=Queen%27s%20House)
 
-## Search Results page 
+## Search Results page
 
-*With a string parameter defining the search text*
+`Parameters - action=search, searchText`
 
-amigo://map?searchText=Supermarkets
-amigo://map?searchText=TomTom%20London
+[amigo://map?searchText=Supermarkets](amigo://map?searchText=Supermarkets)
 
-Location Panel (Parameters - GPS Co-ordinate, Name, Address)
-amigo://map?action=focus&latitude=51.5014&longitude=-0.1419
+[amigo://map?searchText=TomTom London](amigo://map?searchText=TomTom%20London)
 
+## Menu → My Places
 
-Menu →My Places
-Menu->Appearance
-Menu->Settings
-Menu→Support
-Menu→ About → Share the app
-Menu → About → Rate the app.
-Menu->Support->About
-Menu->Privacy
+[amigo://my-places](amigo://my-places)
+
+## Menu → Settings
+
+[amigo://settings](amigo://settings)
+
+## Menu → Support
+
+[amigo://support](amigo://support)
+
+## Menu → Share
+
+[amigo://share](amigo://share)
+
+## Menu → Rate (Not working yet)
+
+[amigo://rate](amigo://rate)
+
+## Menu → Support → About
+
+[amigo://about](amigo://about)
+
+## Menu → Privacy
+
+[amigo://privacy](amigo://privacy)
