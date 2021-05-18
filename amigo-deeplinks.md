@@ -52,6 +52,11 @@
 
 > [https://amigo.tomtom.com/map/search?searchText=TomTom London](https://amigo.tomtom.com/map/search?searchText=TomTom%20London)
 
+### Search for "Parking"
+>[amigo://map/search/?poiCategoryGroup=poi_parking](amigo://map/search/?poiCategoryGroup=poi_parking)
+
+> [https://amigo.tomtom.com/map/search?poiCategoryGroup=poi_parking](https://amigo.tomtom.com/map/search?poiCategoryGroup=poi_parking)
+
 ## Menu → My Places
 
 > [amigo://my-places](amigo://my-places)
