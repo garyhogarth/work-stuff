@@ -1,4 +1,6 @@
 # AmiGo Deep Link Test
+> [amigo://survey/web/surveymonkey/RJ9XKZM](amigo://survey/web/surveymonkey/RJ9XKZM)
+> [amigo://survey/app/surveymonkey/RJ9XKZM](amigo://survey/app/surveymonkey/RJ9XKZM)
 
 [< Back](README.md)
 
